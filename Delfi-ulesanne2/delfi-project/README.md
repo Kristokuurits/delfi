@@ -1,4 +1,4 @@
-# delfi-api-project
+# delfi-project
 
 ## Project setup
 ```
